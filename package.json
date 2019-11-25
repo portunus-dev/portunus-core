@@ -1,6 +1,12 @@
 {
   "name": "@portunus/core",
   "version": "0.1.0",
+  "author": {
+    "name": "woozyking",
+    "email": "me@runzhou.li",
+    "url": "https://runzhou.li"
+  },
+  "private": false,
   "main": "index.js",
   "license": "MIT",
   "peerDependencies": {
