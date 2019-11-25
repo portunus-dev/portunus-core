@@ -1,0 +1,16 @@
+{
+  "name": "@portunus/core",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  },
+  "dependencies": {
+    "async": "^3.1.0",
+    "gpg": "^0.6.0"
+  }
+}
